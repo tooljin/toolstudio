@@ -49,6 +49,7 @@ facebook
 #
 facebook.com, 350509276865658, DIRECT, c3e20eee3f780d68
 facebook.com, 726625485018630, DIRECT, c3e20eee3f780d68
+facebook.com, 254279540730372, RESELLER, c3e20eee3f780d68
 #
 mintegral
 #
