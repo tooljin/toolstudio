@@ -2,7 +2,7 @@
 admob
 #
 google.com, pub-5247684316698938, DIRECT, f08c47fec0942fa0
-google.com, pub-4694110216243855, DIRECT, f08c47fec0942fa0
+google.com, pub-4694110216243855, RESELLER, f08c47fec0942fa0
 #
 #
 applovin
